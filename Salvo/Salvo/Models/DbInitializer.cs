@@ -43,6 +43,29 @@ namespace Salvo.Models
                 //guarda cambio 
                 context.SaveChanges();
             }
+
+            if (!context.Games.Any())
+            {
+                var games = new Game[]
+                {
+                    new Game {CreationTime = DateTime.Now},
+                    new Game {CreationTime = DateTime.Now.AddHours(1)},
+                    new Game {CreationTime = DateTime.Now.AddHours(2)},
+                    new Game {CreationTime = DateTime.Now.AddHours(3)},
+                    new Game {CreationTime = DateTime.Now.AddHours(4)},
+                    new Game {CreationTime = DateTime.Now.AddHours(5)},
+                    new Game {CreationTime = DateTime.Now.AddHours(6)},
+                    new Game {CreationTime = DateTime.Now.AddHours(7)},
+                    new Game {CreationTime = DateTime.Now.AddHours(8)},
+                };
+                //recorre los game
+                foreach (Game g in games)
+                {
+                    context.Games.Add(g);
+                }
+                //guarda cambio 
+                context.SaveChanges();
+            }
         }
     }
 }
