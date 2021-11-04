@@ -25,7 +25,7 @@ namespace Salvo.Controllers
         {
             try
             {
-                var games = _repository.GetAllGames();
+                var games = _repository.GetAllGamesWithPlayers();
                 return Ok(games);
             }
             catch(Exception ex)

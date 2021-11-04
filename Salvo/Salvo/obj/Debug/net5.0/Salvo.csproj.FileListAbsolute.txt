@@ -1,0 +1,292 @@
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\appsettings.json
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.exe
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.deps.json
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.runtimeconfig.json
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.runtimeconfig.dev.json
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ref\Salvo.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.Views.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Salvo.Views.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.csproj.AssemblyReference.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.AssemblyInfoInputs.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.AssemblyInfo.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.csproj.CoreCompileInputs.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.RazorAssemblyInfo.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.RazorAssemblyInfo.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\staticwebassets\Salvo.StaticWebAssets.Manifest.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\staticwebassets\Salvo.StaticWebAssets.xml
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\scopedcss\bundle\Salvo.styles.css
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.TagHelpers.input.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.TagHelpers.output.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.RazorCoreGenerate.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.RazorTargetAssemblyInfo.cache
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.RazorTargetAssemblyInfo.cs
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.Views.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.csproj.CopyComplete
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\ref\Salvo.dll
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.pdb
+C:\Users\Tomy\Desktop\salvooo\pruebas\Salvo gameplayer\Salvo\obj\Debug\net5.0\Salvo.genruntimeconfig.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\appsettings.Development.json
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\appsettings.json
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.exe
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.deps.json
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.runtimeconfig.json
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.runtimeconfig.dev.json
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ref\Salvo.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.Views.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Salvo.Views.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Humanizer.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.csproj.AssemblyReference.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.AssemblyInfoInputs.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.AssemblyInfo.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.csproj.CoreCompileInputs.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.MvcApplicationPartsAssemblyInfo.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorAssemblyInfo.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorAssemblyInfo.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\staticwebassets\Salvo.StaticWebAssets.Manifest.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\staticwebassets\Salvo.StaticWebAssets.xml
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\scopedcss\bundle\Salvo.styles.css
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.TagHelpers.input.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.TagHelpers.output.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorCoreGenerate.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorTargetAssemblyInfo.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorTargetAssemblyInfo.cs
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.Views.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\ref\Salvo.dll
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.genruntimeconfig.cache
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.csproj.CopyComplete

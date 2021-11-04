@@ -66,6 +66,111 @@ namespace Salvo.Models
                 //guarda cambio 
                 context.SaveChanges();
             }
+
+            if (!context.GamePlayers.Any())
+            {
+                var gamePlayers = new GamePlayer[]
+                {
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(1L).CreationTime,
+                        GameId =  1,
+                        Game = context.Games.Find(1L),
+                        PlayerId = 1,
+                        Player = context.Players.Find(1L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(1L).CreationTime,
+                        GameId =  1,
+                        Game = context.Games.Find(1L),
+                        PlayerId = 2,
+                        Player = context.Players.Find(2L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(2L).CreationTime,
+                        GameId =  2,
+                        Game = context.Games.Find(2L),
+                        PlayerId = 1,
+                        Player = context.Players.Find(1L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(2L).CreationTime,
+                        GameId =  2,
+                        Game = context.Games.Find(2L),
+                        PlayerId = 2,
+                        Player = context.Players.Find(2L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(3L).CreationTime,
+                        GameId =  3,
+                        Game = context.Games.Find(3L),
+                        PlayerId = 2,
+                        Player = context.Players.Find(2L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(3L).CreationTime,
+                        GameId =  3,
+                        Game = context.Games.Find(3L),
+                        PlayerId = 4,
+                        Player = context.Players.Find(4L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(4L).CreationTime,
+                        GameId =  4,
+                        Game = context.Games.Find(4L),
+                        PlayerId = 1,
+                        Player = context.Players.Find(1L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(4L).CreationTime,
+                        GameId =  4,
+                        Game = context.Games.Find(4L),
+                        PlayerId = 2,
+                        Player = context.Players.Find(2L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(5L).CreationTime,
+                        GameId =  5,
+                        Game = context.Games.Find(5L),
+                        PlayerId = 4,
+                        Player = context.Players.Find(4L)
+
+                    },
+                    new GamePlayer
+                    {
+                        JoinDate = context.Games.Find(5L).CreationTime,
+                        GameId =  5,
+                        Game = context.Games.Find(5L),
+                        PlayerId = 1,
+                        Player = context.Players.Find(1L)
+
+                    }
+
+                };
+                foreach (GamePlayer gp in gamePlayers)
+                {
+                    context.GamePlayers.Add(gp);
+                }
+                //guarda cambio 
+                context.SaveChanges();
+
+            }
         }
     }
 }
