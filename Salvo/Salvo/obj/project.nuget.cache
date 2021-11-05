@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6JhZsSmdG4tSgwjzQNn2fR+8AL+vJfzjYVJ+qHESxdwVPGQ7yVrNkHB/HgadFLC1kVb2q/mA+fBXv1q4r8/4fg==",
+  "dgSpecHash": "NQUsn9LR1Iz+eeKTQb3yF8M1CpsYekFn+wN9ceWgIjLqSsRKVI1U9pBmrUMwdVjEu4mC4CzhNg1Mzc8yQVc36w==",
   "success": true,
-  "projectFilePath": "D:\\proyecto\\salvo_compragamer\\Salvo\\Salvo\\Salvo.csproj",
+  "projectFilePath": "D:\\proyecto\\Salvo\\salvo_compragamer\\Salvo\\Salvo\\Salvo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tomy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

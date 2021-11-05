@@ -26,7 +26,7 @@ namespace Salvo.Migrations
                         .HasColumnType("bigint")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<DateTime?>("CreationTime")
+                    b.Property<DateTime?>("CreationDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -36,7 +36,7 @@ namespace Salvo.Migrations
 
             modelBuilder.Entity("Salvo.Models.GamePlayer", b =>
                 {
-                    b.Property<long>("id")
+                    b.Property<long>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("bigint")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
@@ -44,13 +44,13 @@ namespace Salvo.Migrations
                     b.Property<long>("GameId")
                         .HasColumnType("bigint");
 
+                    b.Property<DateTime?>("JoinDate")
+                        .HasColumnType("datetime2");
+
                     b.Property<long>("PlayerId")
                         .HasColumnType("bigint");
 
-                    b.Property<DateTime?>("joinDate")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.HasIndex("GameId");
 

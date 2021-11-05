@@ -48,15 +48,15 @@ namespace Salvo.Models
             {
                 var games = new Game[]
                 {
-                    new Game {CreationTime = DateTime.Now},
-                    new Game {CreationTime = DateTime.Now.AddHours(1)},
-                    new Game {CreationTime = DateTime.Now.AddHours(2)},
-                    new Game {CreationTime = DateTime.Now.AddHours(3)},
-                    new Game {CreationTime = DateTime.Now.AddHours(4)},
-                    new Game {CreationTime = DateTime.Now.AddHours(5)},
-                    new Game {CreationTime = DateTime.Now.AddHours(6)},
-                    new Game {CreationTime = DateTime.Now.AddHours(7)},
-                    new Game {CreationTime = DateTime.Now.AddHours(8)},
+                    new Game {CreationDate = DateTime.Now},
+                    new Game {CreationDate = DateTime.Now.AddHours(1)},
+                    new Game {CreationDate = DateTime.Now.AddHours(2)},
+                    new Game {CreationDate = DateTime.Now.AddHours(3)},
+                    new Game {CreationDate = DateTime.Now.AddHours(4)},
+                    new Game {CreationDate = DateTime.Now.AddHours(5)},
+                    new Game {CreationDate = DateTime.Now.AddHours(6)},
+                    new Game {CreationDate = DateTime.Now.AddHours(7)},
+                    new Game {CreationDate = DateTime.Now.AddHours(8)},
                 };
                 //recorre los game
                 foreach (Game g in games)
@@ -69,108 +69,46 @@ namespace Salvo.Models
 
             if (!context.GamePlayers.Any())
             {
-                var gamePlayers = new GamePlayer[]
+                Game game1 = context.Games.Find(1L);
+                Game game2 = context.Games.Find(2L);
+                Game game3 = context.Games.Find(3L);
+                Game game4 = context.Games.Find(4L);
+                Game game5 = context.Games.Find(5L);
+                Game game6 = context.Games.Find(6L);
+                Game game7 = context.Games.Find(7L);
+                Game game8 = context.Games.Find(8L);
+
+                Player jbauer = context.Players.Find(1L);
+                Player obrian = context.Players.Find(2L);
+                Player kbauer = context.Players.Find(3L);
+                Player almeida = context.Players.Find(4L);
+
+                var gamesPlayers = new GamePlayer[]
                 {
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(1L).CreationTime,
-                        GameId =  1,
-                        Game = context.Games.Find(1L),
-                        PlayerId = 1,
-                        Player = context.Players.Find(1L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(1L).CreationTime,
-                        GameId =  1,
-                        Game = context.Games.Find(1L),
-                        PlayerId = 2,
-                        Player = context.Players.Find(2L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(2L).CreationTime,
-                        GameId =  2,
-                        Game = context.Games.Find(2L),
-                        PlayerId = 1,
-                        Player = context.Players.Find(1L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(2L).CreationTime,
-                        GameId =  2,
-                        Game = context.Games.Find(2L),
-                        PlayerId = 2,
-                        Player = context.Players.Find(2L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(3L).CreationTime,
-                        GameId =  3,
-                        Game = context.Games.Find(3L),
-                        PlayerId = 2,
-                        Player = context.Players.Find(2L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(3L).CreationTime,
-                        GameId =  3,
-                        Game = context.Games.Find(3L),
-                        PlayerId = 4,
-                        Player = context.Players.Find(4L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(4L).CreationTime,
-                        GameId =  4,
-                        Game = context.Games.Find(4L),
-                        PlayerId = 1,
-                        Player = context.Players.Find(1L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(4L).CreationTime,
-                        GameId =  4,
-                        Game = context.Games.Find(4L),
-                        PlayerId = 2,
-                        Player = context.Players.Find(2L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(5L).CreationTime,
-                        GameId =  5,
-                        Game = context.Games.Find(5L),
-                        PlayerId = 4,
-                        Player = context.Players.Find(4L)
-
-                    },
-                    new GamePlayer
-                    {
-                        JoinDate = context.Games.Find(5L).CreationTime,
-                        GameId =  5,
-                        Game = context.Games.Find(5L),
-                        PlayerId = 1,
-                        Player = context.Players.Find(1L)
-
-                    }
-
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game1, Player = jbauer },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game1, Player = obrian },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game2, Player = jbauer },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game2, Player = obrian },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game3, Player = obrian },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game3, Player = almeida },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game4, Player = obrian },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game4, Player = jbauer },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game5, Player = jbauer },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game5, Player = almeida },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game6, Player = kbauer },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game7, Player = almeida },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game8, Player = kbauer },
+                    new GamePlayer {JoinDate=DateTime.Now, Game = game8, Player = almeida },
                 };
-                foreach (GamePlayer gp in gamePlayers)
+
+                foreach (GamePlayer gp in gamesPlayers)
                 {
                     context.GamePlayers.Add(gp);
                 }
-                //guarda cambio 
                 context.SaveChanges();
 
             }
+           
         }
     }
 }
