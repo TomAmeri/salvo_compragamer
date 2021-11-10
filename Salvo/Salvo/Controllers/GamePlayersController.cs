@@ -28,33 +28,54 @@ namespace Salvo.Controllers
             try
             {
                 var gp = _repository.GetGamePlayerView(id);
-                var gameView = new GameViewDTO
+                var gameviewdto = new GameViewDTO
                 {
                     Id = gp.Id,
-                    CreationDate = gp.Game.CreationDate, 
-                    Ships = gp.Ships.Select(ship => new ShipDTO
+                    CreationDate = gp.Game.CreationDate,
+                    Ships = gp.Ships
+                                        .Select(sh => new ShipDTO
+                                        {
+                                            Id = sh.Id,
+                                            Type = sh.Type,
+                                            Locations = sh.Locations
+                                            .Select(loc => new ShipLocationDTO
+                                            {
+                                                Id = loc.Id,
+                                                Location = loc.Location
+                                            }).ToList()
+                                        }
+                                        ).ToList(),
+                    GamePlayers = gp.Game.GamePlayers
+                                 .Select(gps => new GamePlayerDTO
+                                 {
+                                     Id = gps.Id,
+                                     JoinDate = gps.JoinDate,
+                                     Player = new PlayerDTO
+                                     {
+                                         Id = gps.Player.Id,
+                                         Email = gps.Player.Email
+                                     }
+                                 }).ToList(),
+                    Salvos = gp.Game.GamePlayers.SelectMany(gps => gps.Salvos.Select(salvo => new SalvoDTO
                     {
-                        Id = ship.Id,
-                        Type = ship.Type,
-                        Locations = ship.Locations.Select(shipLocation => new ShipLocationDTO
-                        {
-                            Id= shipLocation.Id,
-                            Location = shipLocation.Location,
-                        }).ToList()
-                    }).ToList(),
-                    GamePlayers = gp.Game.GamePlayers                    
-                    .Select(gps => new GamePlayerDTO
-                    {
-                        Id = gps.Id,
-                        JoinDate = gps.JoinDate,
+                        Id = salvo.Id,
+                        Turn = salvo.Turn,
                         Player = new PlayerDTO
                         {
                             Id = gps.Player.Id,
                             Email = gps.Player.Email
-                        }
-                    }).ToList()
+                        },
+                        Locations = salvo.Locations.Select(salvoLocation => new SalvoLocationDTO
+                        {
+                            Id = salvoLocation.Id,
+                            Location = salvoLocation.Location
+                        }).ToList()
+                    })).ToList()
                 };
-                return Ok(gameView);
+                //return Ok();
+                return Ok(gameviewdto);
+            
+                
             }catch(Exception ex)
             {
                 return StatusCode(500, ex.Message);

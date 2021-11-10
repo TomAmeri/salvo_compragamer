@@ -7156,11 +7156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proyecto\\Salvo - copia\\salvo_compragamer\\Salvo\\Salvo\\Salvo.csproj",
+      "projectUniqueName": "D:\\proyecto\\salvo_compragamer\\Salvo\\Salvo\\Salvo.csproj",
       "projectName": "Salvo",
-      "projectPath": "D:\\proyecto\\Salvo - copia\\salvo_compragamer\\Salvo\\Salvo\\Salvo.csproj",
+      "projectPath": "D:\\proyecto\\salvo_compragamer\\Salvo\\Salvo\\Salvo.csproj",
       "packagesPath": "C:\\Users\\Tomy\\.nuget\\packages\\",
-      "outputPath": "D:\\proyecto\\Salvo - copia\\salvo_compragamer\\Salvo\\Salvo\\obj\\",
+      "outputPath": "D:\\proyecto\\salvo_compragamer\\Salvo\\Salvo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

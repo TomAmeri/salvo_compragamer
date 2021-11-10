@@ -261,7 +261,6 @@ D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm\lib\
 D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\proyecto\salvo_compragamer\Salvo\Salvo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.csproj.AssemblyReference.cache
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.GeneratedMSBuildEditorConfig.editorconfig
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.AssemblyInfoInputs.cache
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.AssemblyInfo.cs
@@ -285,8 +284,8 @@ D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Razor\Pages\_ViewStar
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorTargetAssemblyInfo.cache
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.RazorTargetAssemblyInfo.cs
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.Views.pdb
+D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.csproj.CopyComplete
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.dll
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\ref\Salvo.dll
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.pdb
 D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.genruntimeconfig.cache
-D:\proyecto\salvo_compragamer\Salvo\Salvo\obj\Debug\net5.0\Salvo.csproj.CopyComplete
