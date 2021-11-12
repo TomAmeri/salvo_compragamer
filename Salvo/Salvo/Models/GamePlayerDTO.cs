@@ -15,5 +15,7 @@ namespace Salvo.Models
 
         //public long PlayerId { get; set; }
         public PlayerDTO Player { get; set; }
+
+        public double? Point { get; set; }
     }
 }

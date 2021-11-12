@@ -22,7 +22,9 @@ namespace Salvo.Repositories
         public IEnumerable<Game> GetAllGamesWithPlayers()
         {
             return FindAll(source => source.Include(game => game.GamePlayers)
-                    .ThenInclude(gameplayer => gameplayer.Player))
+                    .ThenInclude(gameplayer => gameplayer.Player)
+                            .ThenInclude(Player => Player.Scores)
+                            )
                 .OrderBy(game => game.CreationDate)
                 .ToList();
             
